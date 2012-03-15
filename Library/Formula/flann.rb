@@ -45,3 +45,4 @@ class Flann < Formula
     end
   end
 end
+
