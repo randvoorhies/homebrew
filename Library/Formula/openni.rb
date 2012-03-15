@@ -30,7 +30,6 @@ class Openni < Formula
         end
       end
     end
-
   end
 
   def test
